@@ -11,3 +11,6 @@ Current AdMob Version:
 
 
 It simply wraps all the banner sizes, which are simply static variables in the Admob SDK, as functions.
+
+The binding is available here: https://github.com/MarkoBL/GoogleAdmobBindingXamariniOS
+
